@@ -10,10 +10,3 @@
      @apply text-3xl px-8 pt-8 pb-2 font-semibold text-white
 }
 
-.cards:nth-child(odd) {
-     @apply bg-secondary text-white dark:bg-gray-700;
-}
-
-.cards:nth-child(even) {
-     @apply bg-white text-tertiary dark:bg-gray-800 dark:text-gray-300;
-}
